@@ -1,0 +1,7 @@
+numpy
+librosa
+opencv-python
+dlib
+sounddevice
+soundfile
+scikit-learn
